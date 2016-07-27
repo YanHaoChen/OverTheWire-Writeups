@@ -4,7 +4,7 @@
 
 ## List
 
-* [Level 0]()
+* [Level 0](https://github.com/YanHaoChen/OverTheWire-Writeups/blob/master/Bandit/Level0.md)
 * [Level 0 -> Level 1]()
 * [Level 1 -> Level 2]()
 * [Level 2 -> Level 3]()
