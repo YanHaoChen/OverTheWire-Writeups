@@ -51,5 +51,4 @@ CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 bandit1@melinda:~$ cat ./-
 CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 ```
-就可以成功消除```cat```的業障，讓它告訴你第二組的 Flag：
-```CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9```。
+就可以成功消除```cat```的業障，讓它告訴你第二組的 Flag：```CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9```。
