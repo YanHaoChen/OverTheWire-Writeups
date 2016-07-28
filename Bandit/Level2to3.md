@@ -51,3 +51,4 @@ bandit2@melinda:~$ cat spaces\ in\ this\ filename
 UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 ```
 這樣就可以成功打開這個檔案，並得到第三組的 Flag：```UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK ```。
+> [Next level（Level 3 -> 4）](https://github.com/YanHaoChen/OverTheWire-Writeups/blob/master/Bandit/Level3to4.md) 
