@@ -33,3 +33,4 @@ bandit0@bandit.labs.overthewire.org's password:
 ```shell
 bandit0@melinda:~$
 ```
+> [Next level（Level 0 -> 1）](https://github.com/YanHaoChen/OverTheWire-Writeups/blob/master/Bandit/Level0to1.md) 
