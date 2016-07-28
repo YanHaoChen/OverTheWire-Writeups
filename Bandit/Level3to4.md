@@ -48,3 +48,4 @@ bandit3@melinda:~/inhere$ cat .hidden
 pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 ```
 恭喜！得到第四組的 Flag：```pIwrPrtPN36QITSp3EQaw936yaFoFgAB```。
+> [Next level（Level 4 -> 5）](https://github.com/YanHaoChen/OverTheWire-Writeups/blob/master/Bandit/Level4to5.md) 
