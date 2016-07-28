@@ -25,8 +25,8 @@ inhere
 接著進入目錄```inhere```：
 
 ```shell
-bandit3@melinda:~$ cd inhere/
-bandit3@melinda:~/inhere$
+bandit4@melinda:~$ cd inhere/
+bandit4@melinda:~/inhere$
 ```
 還是先例行慣例，先執行```ls```看看：
 
