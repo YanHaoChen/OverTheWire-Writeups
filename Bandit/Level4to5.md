@@ -57,3 +57,4 @@ bandit4@melinda:~/inhere$ cat ./-file07
 koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 ```
 的確找到它了，恭喜！得到第五組的 Flag：```koReBOKuIDDepwhWk7jZC0RTdopnAYKh```。
+> [Next level（Level 5 -> 6）](https://github.com/YanHaoChen/OverTheWire-Writeups/blob/master/Bandit/Level5to6.md) 
