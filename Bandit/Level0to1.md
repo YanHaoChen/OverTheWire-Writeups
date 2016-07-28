@@ -31,3 +31,4 @@ boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 ```
 
 一切都很順利。也恭喜取得第一組 Flag：```boJ9jbbUNNfktd78OOpsqOltutMc3MY1```。
+> [Next level（Level 1 -> 2）](https://github.com/YanHaoChen/OverTheWire-Writeups/blob/master/Bandit/Level1to2.md) 
