@@ -15,7 +15,7 @@ ls, cd, cat, file, du, find, grep
 這題的提示其實都可以當成```find```的搜尋參數，所以我們就直接使用```find```來找 Flag 吧：
 
 ```shell
-find / -user bandit7 -group bandit6 -size 33c -exec ls -la '{}' \;
+bandit6@melinda:~$ find / -user bandit7 -group bandit6 -size 33c -exec ls -la '{}' \;
 ...
 ...
 -rw-r----- 1 bandit7 bandit6 33 Nov 14  2014 /var/lib/dpkg/info/bandit7.password
