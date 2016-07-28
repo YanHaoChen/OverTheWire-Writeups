@@ -1,4 +1,4 @@
-# [Level 5 -> 6](http://overthewire.org/wargames/bandit/bandit4.html)
+# [Level 5 -> 6](http://overthewire.org/wargames/bandit/bandit5.html)
 
 找到特定大小的檔案。
 
@@ -62,3 +62,5 @@ DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 參數```-exec```後面可以接，找到符合的檔案後要執行的指令。```'{}'```則代表找到的檔案本身，最後記得加上```\;```代表```-exec```的結尾。
 
 恭喜！得到第六組的 Flag：```DXjZPULLxYr17uwoI01bNLQbtFemEgo7```。
+
+> [Next level（Level 6 -> 7）](https://github.com/YanHaoChen/OverTheWire-Writeups/blob/master/Bandit/Level6to7.md) 
