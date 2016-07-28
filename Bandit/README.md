@@ -10,7 +10,7 @@
 * [Level 2 -> Level 3](https://github.com/YanHaoChen/OverTheWire-Writeups/blob/master/Bandit/Level2to3.md)
 * [Level 3 -> Level 4](https://github.com/YanHaoChen/OverTheWire-Writeups/blob/master/Bandit/Level3to4.md)
 * [Level 4 -> Level 5](https://github.com/YanHaoChen/OverTheWire-Writeups/blob/master/Bandit/Level4to5.md)
-* [Level 5 -> Level 6]()
+* [Level 5 -> Level 6](https://github.com/YanHaoChen/OverTheWire-Writeups/blob/master/Bandit/Level5to6.md)
 * [Level 6 -> Level 7]()
 * [Level 7 -> Level 8]()
 * [Level 8 -> Level 9]()
