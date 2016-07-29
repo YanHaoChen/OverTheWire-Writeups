@@ -40,4 +40,4 @@ bandit9@melinda:~$ strings data.txt | grep ^=
 
 恭喜！找到了第十組的 Flag：```truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk```。
 
-> [Next level（Level 10 -> 11）](https://github.com/YanHaoChen/OverTheWire-Writeups/blob/master/Bandit/Level9to10.md) 
+> [Next level（Level 10 -> 11）](https://github.com/YanHaoChen/OverTheWire-Writeups/blob/master/Bandit/Level10to11.md) 
