@@ -46,4 +46,4 @@ The password of user bandit25 is uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
 
 找到了！Flag：```uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG```。
 
-> [Next level（Level 25 -> 26）](https://github.com/YanHaoChen/OverTheWire-Writeups/blob/master/Bandit/Level24to25.md) 
+> [Next level（Level 25 -> 26）](https://github.com/YanHaoChen/OverTheWire-Writeups/blob/master/Bandit/Level25to26.md) 
