@@ -1,6 +1,6 @@
 # [Level 9 -> 10](http://overthewire.org/wargames/bandit/bandit10.html)
 
-用```strings```找```human-readable```的字串，串其實很簡單。
+用```strings```找```human-readable```的字串，字串其實很簡單。
 
 ## Level Goal
 
